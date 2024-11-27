@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jaudiotagger-2.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/jar-file/jaudiotagger-2.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/jar-file/jlayer-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/jar-file/mp3agic-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
